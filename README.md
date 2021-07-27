@@ -7,7 +7,7 @@
 
 The [```Living and Dead cell (LDC)```](https://github.com/maxKudi/Cell-Dataset/) dataset contains 2500 images along with their annotation files, the original dataset is not   split into ```Training```, ```Testing```, and ```Validation``` sets. I would recommend using [```roboflow```](roboflow.com) to augment the dataset. Among the 360 smear images, 300 blood cell images with annotations are used as the training set first, and then the rest of the 60 images with annotations are used as the testing set. Due to the shortage of the data, a subset of the training set is used to prepare the validation set which contains 60 images with annotations.
 
-[![Download](https://img.shields.io/badge/download-dataset-f20a0a.svg?longCache=true&style=flat)](https://github.com/MahmudulAlam/Complete-Blood-Cell-Count-Dataset/archive/master.zip)
+[![Download](https://img.shields.io/badge/download-dataset-f20a0a.svg?longCache=true&style=flat)](https://github.com/maxKudi/Cell-Dataset/archive/master.zip)
 
 ## Paper 
 [![Paper](https://img.shields.io/badge/paper-IETDigiLib-830ceb.svg?longCache=true&style=flat)](http://ietdl.org/t/kmgztb) [![Paper](https://img.shields.io/badge/paper-Wiley-282829.svg?longCache=true&style=flat)](https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/htl.2018.5098)
