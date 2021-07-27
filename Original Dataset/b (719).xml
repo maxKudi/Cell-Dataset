@@ -1,0 +1,38 @@
+<annotation>
+	<folder>XML</folder>
+	<filename>b (719).png</filename>
+	<path>C:\Users\Kudi Okerulu\Desktop\Thesis\Cell\XML\b (719).png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>225</width>
+		<height>219</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Living Cell</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>118</xmin>
+			<ymin>196</ymin>
+			<xmax>139</xmax>
+			<ymax>215</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Dead Cell</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>70</ymin>
+			<xmax>9</xmax>
+			<ymax>88</ymax>
+		</bndbox>
+	</object>
+</annotation>
