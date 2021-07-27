@@ -34,7 +34,7 @@ The dataset is modified and prepared for this [```paper```](https://ietresearch.
 ### Image 
 Each image is resized to ```640 x 480``` resolution. 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/37298971/46539603-c77ab900-c8d8-11e8-9e48-e6c054f8af3b.jpg" width="500">
+  <img src="https://user-images.githubusercontent.com/22647359/127229072-5d6a41c8-7f9f-4e35-abc9-0460a37c9b64.png" width="500">
 </p>
 
 `N.B.` Rectangular bounding boxes are converted to circular bounding boxes for representation.
