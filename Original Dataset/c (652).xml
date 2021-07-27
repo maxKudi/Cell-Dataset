@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Label</folder>
+	<filename>c (652).png</filename>
+	<path>C:\Users\Kudi Okerulu\Desktop\Label\c (652).png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>225</width>
+		<height>219</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Living Cell</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>36</xmin>
+			<ymin>107</ymin>
+			<xmax>59</xmax>
+			<ymax>129</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Living Cell</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>169</xmin>
+			<ymin>88</ymin>
+			<xmax>193</xmax>
+			<ymax>110</ymax>
+		</bndbox>
+	</object>
+</annotation>
