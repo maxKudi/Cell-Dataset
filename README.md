@@ -1,5 +1,4 @@
-# Cell-Dataset
-<h2 align="center">Complete Blood Count (CBC) Dataset</h2>
+<h2 align="center">Cell-Dataset</h2>
 
 [![GitHub stars](https://img.shields.io/github/stars/maxKudi/Cell-Dataset)](https://github.com/maxKudi/Cell-Dataset/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/maxKudi/Cell-Dataset)](https://github.com/maxKudi/Cell-Dataset/network)
