@@ -1,0 +1,74 @@
+<annotation>
+	<folder>Kudi</folder>
+	<filename>cell (238).png</filename>
+	<path>C:\Users\Kudi Okerulu\Desktop\Thesis\Data\Kudi\cell (238).png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>225</width>
+		<height>219</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Dead Cell</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>89</xmin>
+			<ymin>75</ymin>
+			<xmax>104</xmax>
+			<ymax>93</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Dead Cell</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>50</xmin>
+			<ymin>91</ymin>
+			<xmax>68</xmax>
+			<ymax>109</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Living Cell</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>141</xmin>
+			<ymin>172</ymin>
+			<xmax>161</xmax>
+			<ymax>191</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Living Cell</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>125</xmin>
+			<ymin>10</ymin>
+			<xmax>147</xmax>
+			<ymax>31</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Dead Cell</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>150</xmin>
+			<ymin>127</ymin>
+			<xmax>171</xmax>
+			<ymax>145</ymax>
+		</bndbox>
+	</object>
+</annotation>
