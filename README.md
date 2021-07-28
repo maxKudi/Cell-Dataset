@@ -10,7 +10,7 @@ The [```Living and Dead cell (LDC)```](https://github.com/maxKudi/Cell-Dataset/)
 [![Download](https://img.shields.io/badge/download-dataset-f20a0a.svg?longCache=true&style=flat)](https://github.com/maxKudi/Cell-Dataset/archive/master.zip)
 
 ## Performance 
-The Dataset still have some noticeable error so i would recommend picking the best images among the 2500 before perforing the augmentation 
+The Dataset still have some noticeable error so i would recommend picking the best images among the 2500 before performing the augmentation 
 
 ## Data Description
 
