@@ -5,7 +5,7 @@
 [![GitHub issues](https://img.shields.io/github/issues/maxKudi/Cell-Dataset)](https://github.com/maxKudi/Cell-Dataset/issues)
 [![GitHub license](https://img.shields.io/github/license/maxKudi/Cell-Dataset)](https://github.com/maxKudi/Cell-Dataset/blob/master/LICENSE)
 
-The [```Living and Dead cell (LDC)```](https://github.com/maxKudi/Cell-Dataset/) dataset contains 2500 images along with their annotation files, the original dataset is not   split into ```Training```, ```Testing```, and ```Validation``` sets. I would recommend using [```roboflow```](https://github.com/roboflow-ai) website to augment the dataset. Among the 2500 images, 7003 are Living Cells while 1516 are Dead Cells. 
+The [```Living and Dead cell (LDC)```](https://github.com/maxKudi/Cell-Dataset/) dataset contains 2500 images along with their annotation files, the original dataset is not   split into ```Training```, ```Testing```, and ```Validation``` sets. I would recommend using [```roboflow```](https://github.com/roboflow-ai) website to augment the dataset. Among the 2500 images, Annotated Living Cells are 7003 while Dead Cells are 1516. 
 
 [![Download](https://img.shields.io/badge/download-dataset-f20a0a.svg?longCache=true&style=flat)](https://github.com/maxKudi/Cell-Dataset/archive/master.zip)
 
