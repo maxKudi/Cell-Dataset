@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Kudi</folder>
+	<filename>cell (171).png</filename>
+	<path>C:\Users\Kudi Okerulu\Desktop\Thesis\Data\Kudi\cell (171).png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>225</width>
+		<height>219</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Dead Cell</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>114</xmin>
+			<ymin>40</ymin>
+			<xmax>134</xmax>
+			<ymax>57</ymax>
+		</bndbox>
+	</object>
+</annotation>
