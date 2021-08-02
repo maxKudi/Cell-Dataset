@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Kudi</folder>
+	<filename>image_359.png</filename>
+	<path>C:\Users\Kudi Okerulu\Desktop\Thesis\Data\Kudi\image_359.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>220</width>
+		<height>220</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Living Cell</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>29</xmin>
+			<ymin>37</ymin>
+			<xmax>54</xmax>
+			<ymax>68</ymax>
+		</bndbox>
+	</object>
+</annotation>
