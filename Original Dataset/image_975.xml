@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Kudi</folder>
+	<filename>image_975.png</filename>
+	<path>C:\Users\Kudi Okerulu\Desktop\Thesis\Data\Kudi\image_975.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>220</width>
+		<height>220</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Living Cell</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>42</xmin>
+			<ymin>22</ymin>
+			<xmax>63</xmax>
+			<ymax>46</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Living Cell</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>65</xmin>
+			<ymin>50</ymin>
+			<xmax>89</xmax>
+			<ymax>73</ymax>
+		</bndbox>
+	</object>
+</annotation>

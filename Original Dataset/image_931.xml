@@ -1,0 +1,122 @@
+<annotation>
+	<folder>Kudi</folder>
+	<filename>image_931.png</filename>
+	<path>C:\Users\Kudi Okerulu\Desktop\Thesis\Data\Kudi\image_931.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>220</width>
+		<height>220</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Dead Cell</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>138</xmin>
+			<ymin>47</ymin>
+			<xmax>164</xmax>
+			<ymax>72</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Dead Cell</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>190</ymin>
+			<xmax>21</xmax>
+			<ymax>216</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Living Cell</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>71</xmin>
+			<ymin>50</ymin>
+			<xmax>97</xmax>
+			<ymax>73</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Living Cell</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>70</xmin>
+			<ymin>142</ymin>
+			<xmax>93</xmax>
+			<ymax>165</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Living Cell</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>53</xmin>
+			<ymin>207</ymin>
+			<xmax>76</xmax>
+			<ymax>220</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Living Cell</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>112</xmin>
+			<ymin>1</ymin>
+			<xmax>133</xmax>
+			<ymax>21</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Living Cell</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>147</xmin>
+			<ymin>21</ymin>
+			<xmax>168</xmax>
+			<ymax>39</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Living Cell</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>161</xmin>
+			<ymin>1</ymin>
+			<xmax>203</xmax>
+			<ymax>37</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Living Cell</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>47</xmin>
+			<ymin>187</ymin>
+			<xmax>73</xmax>
+			<ymax>204</ymax>
+		</bndbox>
+	</object>
+</annotation>
