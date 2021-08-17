@@ -1,0 +1,26 @@
+<annotation>
+	<folder>New folder</folder>
+	<filename>image1439.png</filename>
+	<path>C:\Users\Kudi Okerulu\Desktop\Thesis\Cell\New folder\image1439.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>220</width>
+		<height>220</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Living Cell</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>81</xmin>
+			<ymin>99</ymin>
+			<xmax>101</xmax>
+			<ymax>119</ymax>
+		</bndbox>
+	</object>
+</annotation>
